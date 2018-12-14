@@ -1,2 +1,2 @@
 # TestPro
-This is test Pro
+This is test Project
